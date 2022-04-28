@@ -1,1 +1,5 @@
-print("Hello Srinath!")
+print("High Performance Computing: 4")
+print("DevOps: 3")
+print("Software Project Management")
+print("LAMP: 3")
+print("Undergrad: 1)
